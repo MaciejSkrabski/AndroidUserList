@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkrFLab4</string>
+    <string name="imie">Imie</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="button">OK!</string>
+    <string name="buttonEdit">E</string>
+    <string name="buttonDelete">D</string>
+</resources>
