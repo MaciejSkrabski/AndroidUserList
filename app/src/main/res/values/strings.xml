@@ -5,4 +5,7 @@
     <string name="button">OK!</string>
     <string name="buttonEdit">E</string>
     <string name="buttonDelete">D</string>
+    <string name="liczba">LICZBA</string>
+    <string name="name">IMIE</string>
+    <string name="surname">NAZWISKO</string>
 </resources>
